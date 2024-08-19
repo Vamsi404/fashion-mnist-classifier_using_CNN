@@ -1,6 +1,6 @@
 # Fashion MNIST CNN Classifier
 
-![Fashion MNIST](https://upload.wikimedia.org/wikipedia/commons/6/63/Fashion_MNIST_%28by_Zalando%29_sample_images.png)
+![Fashion MNIST](fashion-mnist-sprite.jpg)
 
 A convolutional neural network (CNN) built using Keras and TensorFlow to classify images from the Fashion MNIST dataset. This project demonstrates image preprocessing, model architecture design, training, and performance evaluation.
 
